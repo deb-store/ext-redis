@@ -3,14 +3,14 @@ Source: ext-redis
 Architecture: source
 Version: 1.0.0-1
 Checksums-Md5:
- 2c1427f404892152497d3aade1ad03ea 1018 ext-redis_1.0.0-1.dsc
+ 03f26401c396e0cc244fdf35eabc5306 1018 ext-redis_1.0.0-1.dsc
 Checksums-Sha1:
- e3855cd69b918afad7f26a0cf802c54ef9bc6056 1018 ext-redis_1.0.0-1.dsc
+ 849204c3bcf84cfa51c41062aa8f3bb6aeccdc2a 1018 ext-redis_1.0.0-1.dsc
 Checksums-Sha256:
- 06b08a1b12b28c52e896c0427af3202d2025c9843c60e7e5c26bcf2bb7674b56 1018 ext-redis_1.0.0-1.dsc
+ 0a44b779838a0088a04392746479ce701fc2fe1bc0104ca0b564c601875d216b 1018 ext-redis_1.0.0-1.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 15 Sep 2021 09:22:48 +0000
+Build-Date: Wed, 15 Sep 2021 10:58:57 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),

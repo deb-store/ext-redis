@@ -13,11 +13,11 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Package-List:
  ext-redis deb admin optional arch=all
 Checksums-Sha1:
- deb0a0acbe8ae064f086061f3a270c6473575ebe 304 ext-redis_1.0.0.orig.tar.xz
- 1e3b6f5c3217216dee037ee927cf7c40c7ab9793 744 ext-redis_1.0.0-1.debian.tar.xz
+ 529583c2ae7084ddf77ed8d27304b0ebfa9ee383 300 ext-redis_1.0.0.orig.tar.xz
+ 48da20147dff77ac416ae81d2a9a058d9aed1c39 736 ext-redis_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 5568b3a7128dd3be4e4d681a11ffc97b34ce432584774736cfead18e6d832ebd 304 ext-redis_1.0.0.orig.tar.xz
- ed0199df9e278bb682fdc98602c3a22aee3b61b0c70a4f2c63f53bf1bdd32064 744 ext-redis_1.0.0-1.debian.tar.xz
+ 7a5ec6715895f5e3d046ee4c75860dbbba9e44dac6b1d14f577d81e55b487792 300 ext-redis_1.0.0.orig.tar.xz
+ 1917650029fef86e2de36380a03b9b7a812c2b31c1b1b6add5eee6ca11a79fef 736 ext-redis_1.0.0-1.debian.tar.xz
 Files:
- fae322786fbef15680a540e4cea6e1f2 304 ext-redis_1.0.0.orig.tar.xz
- 47d335641124e4c89ee80a732f0e28ad 744 ext-redis_1.0.0-1.debian.tar.xz
+ 5b1ebe35990e834145e287f1b7db1b34 300 ext-redis_1.0.0.orig.tar.xz
+ d173e3e9868021f70d7bb36c5b2e3cfb 736 ext-redis_1.0.0-1.debian.tar.xz

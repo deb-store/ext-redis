@@ -12,17 +12,17 @@ Changes:
  .
    * Initial Release
 Checksums-Sha1:
- e3855cd69b918afad7f26a0cf802c54ef9bc6056 1018 ext-redis_1.0.0-1.dsc
- deb0a0acbe8ae064f086061f3a270c6473575ebe 304 ext-redis_1.0.0.orig.tar.xz
- 1e3b6f5c3217216dee037ee927cf7c40c7ab9793 744 ext-redis_1.0.0-1.debian.tar.xz
- 974090230fa523a8e3f005538ab0fa7fb833534d 4399 ext-redis_1.0.0-1_source.buildinfo
+ 849204c3bcf84cfa51c41062aa8f3bb6aeccdc2a 1018 ext-redis_1.0.0-1.dsc
+ 529583c2ae7084ddf77ed8d27304b0ebfa9ee383 300 ext-redis_1.0.0.orig.tar.xz
+ 48da20147dff77ac416ae81d2a9a058d9aed1c39 736 ext-redis_1.0.0-1.debian.tar.xz
+ 9fb6f19fa3a75a75aee3c7726770f51fd597f4c3 4399 ext-redis_1.0.0-1_source.buildinfo
 Checksums-Sha256:
- 06b08a1b12b28c52e896c0427af3202d2025c9843c60e7e5c26bcf2bb7674b56 1018 ext-redis_1.0.0-1.dsc
- 5568b3a7128dd3be4e4d681a11ffc97b34ce432584774736cfead18e6d832ebd 304 ext-redis_1.0.0.orig.tar.xz
- ed0199df9e278bb682fdc98602c3a22aee3b61b0c70a4f2c63f53bf1bdd32064 744 ext-redis_1.0.0-1.debian.tar.xz
- 506c31acf3c6bab5844f0fc71e65b026632f2df1aa1c59e0ad8bea032e2a2a3c 4399 ext-redis_1.0.0-1_source.buildinfo
+ 0a44b779838a0088a04392746479ce701fc2fe1bc0104ca0b564c601875d216b 1018 ext-redis_1.0.0-1.dsc
+ 7a5ec6715895f5e3d046ee4c75860dbbba9e44dac6b1d14f577d81e55b487792 300 ext-redis_1.0.0.orig.tar.xz
+ 1917650029fef86e2de36380a03b9b7a812c2b31c1b1b6add5eee6ca11a79fef 736 ext-redis_1.0.0-1.debian.tar.xz
+ 967b76ed12e03dbfa9183eada34da616fba86248509d1330ecfe6440af12dc8d 4399 ext-redis_1.0.0-1_source.buildinfo
 Files:
- 2c1427f404892152497d3aade1ad03ea 1018 admin optional ext-redis_1.0.0-1.dsc
- fae322786fbef15680a540e4cea6e1f2 304 admin optional ext-redis_1.0.0.orig.tar.xz
- 47d335641124e4c89ee80a732f0e28ad 744 admin optional ext-redis_1.0.0-1.debian.tar.xz
- 7bad086f6c020fbffb1477409d2f748d 4399 admin optional ext-redis_1.0.0-1_source.buildinfo
+ 03f26401c396e0cc244fdf35eabc5306 1018 admin optional ext-redis_1.0.0-1.dsc
+ 5b1ebe35990e834145e287f1b7db1b34 300 admin optional ext-redis_1.0.0.orig.tar.xz
+ d173e3e9868021f70d7bb36c5b2e3cfb 736 admin optional ext-redis_1.0.0-1.debian.tar.xz
+ 4c6b5dad2350d6c68bcd1528ea8eba46 4399 admin optional ext-redis_1.0.0-1_source.buildinfo
