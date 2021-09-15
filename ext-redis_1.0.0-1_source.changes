@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 12 Nov 2019 14:00:00 +0300
+Source: ext-redis
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-redis (1.0.0-1) unstable; urgency=medium
+ .
+   * Initial Release
+Checksums-Sha1:
+ e3855cd69b918afad7f26a0cf802c54ef9bc6056 1018 ext-redis_1.0.0-1.dsc
+ deb0a0acbe8ae064f086061f3a270c6473575ebe 304 ext-redis_1.0.0.orig.tar.xz
+ 1e3b6f5c3217216dee037ee927cf7c40c7ab9793 744 ext-redis_1.0.0-1.debian.tar.xz
+ 974090230fa523a8e3f005538ab0fa7fb833534d 4399 ext-redis_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ 06b08a1b12b28c52e896c0427af3202d2025c9843c60e7e5c26bcf2bb7674b56 1018 ext-redis_1.0.0-1.dsc
+ 5568b3a7128dd3be4e4d681a11ffc97b34ce432584774736cfead18e6d832ebd 304 ext-redis_1.0.0.orig.tar.xz
+ ed0199df9e278bb682fdc98602c3a22aee3b61b0c70a4f2c63f53bf1bdd32064 744 ext-redis_1.0.0-1.debian.tar.xz
+ 506c31acf3c6bab5844f0fc71e65b026632f2df1aa1c59e0ad8bea032e2a2a3c 4399 ext-redis_1.0.0-1_source.buildinfo
+Files:
+ 2c1427f404892152497d3aade1ad03ea 1018 admin optional ext-redis_1.0.0-1.dsc
+ fae322786fbef15680a540e4cea6e1f2 304 admin optional ext-redis_1.0.0.orig.tar.xz
+ 47d335641124e4c89ee80a732f0e28ad 744 admin optional ext-redis_1.0.0-1.debian.tar.xz
+ 7bad086f6c020fbffb1477409d2f748d 4399 admin optional ext-redis_1.0.0-1_source.buildinfo
