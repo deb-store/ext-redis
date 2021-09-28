@@ -9,15 +9,15 @@ Homepage: https://pkgstore.gitlab.io
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-redis
 Vcs-Git: https://github.com/pkgstore/linux-deb-ext-redis.git
-Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-redis deb admin optional arch=all
 Checksums-Sha1:
- 50e1c42b38af3d12d40b741121e562642fc0083d 300 ext-redis_1.0.0.orig.tar.xz
- 48da20147dff77ac416ae81d2a9a058d9aed1c39 736 ext-redis_1.0.0-1.debian.tar.xz
+ 54d899e7f599d823c7c45b36c974cd671d78c04c 300 ext-redis_1.0.0.orig.tar.xz
+ ea7a923c37162a574d7ad0d8ed455a63d23ed8f3 728 ext-redis_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 963f7d8680e9d13b91d1782a2f2e8b9419d951656a37719b8cd1576c3b6a493d 300 ext-redis_1.0.0.orig.tar.xz
- 1917650029fef86e2de36380a03b9b7a812c2b31c1b1b6add5eee6ca11a79fef 736 ext-redis_1.0.0-1.debian.tar.xz
+ f1c1762419c70ffc884d628d20b7205659117c83e2b05c2bdbb1d00e553b37bd 300 ext-redis_1.0.0.orig.tar.xz
+ 4d54d5cc735e128b26ba876841ec027760634822f128fe049e66ca3793955096 728 ext-redis_1.0.0-1.debian.tar.xz
 Files:
- b067c4791f9fba8b0844b9ea297a42fb 300 ext-redis_1.0.0.orig.tar.xz
- d173e3e9868021f70d7bb36c5b2e3cfb 736 ext-redis_1.0.0-1.debian.tar.xz
+ 152ab50ab8d252d80806aa710b0facdb 300 ext-redis_1.0.0.orig.tar.xz
+ 5707609b982bf90d1017a759992dbea2 728 ext-redis_1.0.0-1.debian.tar.xz
